@@ -21,3 +21,4 @@ This repository contains the exercises for Sprint 1, focused on layout structure
 - Responsive Web Design (Media Queries)
 - Font Awesome
 
+
