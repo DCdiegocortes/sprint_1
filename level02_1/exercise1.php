@@ -1,17 +1,17 @@
 <?php
 
-//variables + constants
-$width= 5;
+//variables & constants
+$width = 5;
 $price = 6.5;
 $userName = "pepa";
-$off = false;
-const OWNERNAME = "diego"; // const or define for constants 
+$is_Off = false;
+const OWNER_NAME = "diego"; // const or define to declare constants
 
 // output data w echo
 echo $width . "\n" .
      $price . "\n" .
      $userName . "\n" .
-     $off . "\n" .
-     OWNERNAME;
+     $is_Off . "\n" .
+     OWNER_NAME;
 
 ?>
