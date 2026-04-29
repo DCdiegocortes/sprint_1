@@ -1,10 +1,11 @@
 # Sprint 1 – Layout Exercises
 
 ## 📃Description
-This repository contains the exercises for Sprint 1, focused on layout structure using HTML and CSS.
+This repository contains the exercises for Sprint 1, Level 1 is focused on layout structure using HTML and CSS.
+Level 2 focused on back-end PHP fundamentals excercises.
 
 ## 🔩Structure
-### Level 1
+### Level 1 - Frontend 
   - **Exercise 1**: Desktop layout based on the provided wireframe
   - **Exercise 2**: Tablet layout based on the provided wireframe
   - **Exercise 3** : Mobile layout based on the provided wireframe
@@ -13,7 +14,7 @@ This repository contains the exercises for Sprint 1, focused on layout structure
   - **Exercise 4**: Header & graphics based on japanese travel website     
      -  graphical assets (logo and header background) stored in the `assets` folder
        
-### Level 2.1 – PHP Fundamentals Exercises
+### Level 02.1 – PHP Fundamentals Exercises
 - **Exercise 1**: Variables and constants  
   - integer, float, string, boolean and constant declaration
   - output using `echo`
@@ -49,6 +50,12 @@ This repository contains the exercises for Sprint 1, focused on layout structure
 - **Exercise 6**: Random boolean function  
   - simulates whether “Charlie bit you” or not
   - uses randomness with `rand()`
+    
+### Level 02.2 – PHP Fundamentals Exercises
+- **Exercise 1**: Call cost calculator 
+- conditionals
+- constants
+- progresive cost calculation
 
 ## ⚡️Technologies
 ### Frontend
