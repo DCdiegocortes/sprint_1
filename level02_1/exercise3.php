@@ -41,7 +41,7 @@ echo "multiplication of all variables: " . ($x * $y * $n * $m) . "\n";
 
 //part B
 $a = (float) readline ("enter a number: " );
-$b = (float) readline ("enter another number:");
+$b = (float) readline ("enter another number: ");
 $operation = readline ("enter the operation (add, subtract, multiply, divide): ");
 $operation = strtolower($operation);
 
@@ -66,10 +66,10 @@ function calculate($a, $b, $operation) {
             if ($b != 0) {
                 return $a / $b;
             } else {
-                return "Division by zero is not allowed.";
+                return "Division by zero is not allowed";
             }
         default:
-            return "Invalid operation.";
+            return "Invalid operation";
     }
 }
 
