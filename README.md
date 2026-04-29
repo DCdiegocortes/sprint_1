@@ -1,8 +1,9 @@
 # Sprint 1 – Layout Exercises
 
 ## 📃Description
-This repository contains the exercises for Sprint 1, Level 1 is focused on layout structure using HTML and CSS.
-Level 2 focused on back-end PHP fundamentals excercises.
+This repository contains the exercises for Sprint 1.  
+Level 1 focuses on layout structure using HTML and CSS.  
+Level 2 focuses on backend PHP fundamentals.
 
 ## 🔩Structure
 ### Level 1 - Frontend 
@@ -15,6 +16,7 @@ Level 2 focused on back-end PHP fundamentals excercises.
      -  graphical assets (logo and header background) stored in the `assets` folder
        
 ### Level 02.1 – PHP Fundamentals Exercises
+
 - **Exercise 1**: Variables and constants  
   - integer, float, string, boolean and constant declaration
   - output using `echo`
