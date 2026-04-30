@@ -74,6 +74,28 @@ Level 2 focuses on backend PHP fundamentals.
 - Control structures
 - Functions
 - Exception handling
-  
+
+ ## ✏️ References 
+### HTML
+- [HTML Standard (WHATWG)](https://html.spec.whatwg.org/)
+- [Learn HTML and CSS – Scrimba](https://scrimba.com/learn-html-and-css-c0p)
+
+### CSS
+- [Responsive Web Design Media Queries – W3Schools](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+
+### Flexbox
+- [Curso de Flexbox desde 0 – YouTube](https://www.youtube.com/watch?v=XdrRF4rMXkA)
+
+### CSS Grid
+- [An Interactive Guide to CSS Grid – Josh W. Comeau](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
+- [Slaying The Dragon – YouTube Channel](https://www.youtube.com/channel/UCNG1I_kw2p3evITFIBX_2zA)
+
+### PHP fundamentals
+- [PHP Introduction – W3Schools](https://www.w3schools.com/php/php_intro.asp)
+
+### Best Practices
+- [IT Academy – Barcelona Activa](https://itacademy.barcelonactiva.cat/mod/page/view.php?id=14493)
+
+
 
 
