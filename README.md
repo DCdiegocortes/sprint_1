@@ -57,7 +57,7 @@ Level 2 focuses on backend PHP fundamentals.
 - **Exercise 1**: Call cost calculator 
 - conditionals
 - constants
-- progresive cost calculation
+- progressive cost calculation
   
 ### Level 03.1 – PHP Arrays Exercises
 - **Exercise 1**: Print all numbers in an array  
@@ -81,6 +81,16 @@ Level 2 focuses on backend PHP fundamentals.
 - **Exercise 4**: Associative array with personal information  
   - associative arrays  
   - key-value iteration with `foreach`
+
+### Level 03.2 – PHP Array Comparison Exercises
+- **Exercise 1**: Guest list comparison  
+  - compares two indexed arrays of guest names  
+  - finds common elements between both lists  
+  - creates a merged list without duplicates  
+  - finds exclusive elements from each list  
+  - nested loops  
+  - boolean flags  
+  - array traversal with `foreach`
 
 ## ⚡️Technologies
 ### Frontend
