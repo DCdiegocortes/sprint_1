@@ -91,7 +91,25 @@ Level 2 focuses on backend PHP fundamentals.
   - nested loops  
   - boolean flags  
   - array traversal with `foreach`
+### Level 04.1 – PHP OOP Shapes Exercises
+- **Exercise 1**: Employee tax validation  
+  - object-oriented programming (OOP)  
+  - class definition (`Employee`)  
+  - attributes and constructor initialization  
+  - methods and object behavior  
+  - conditional logic inside class methods  
+  - business rule validation (tax payment based on salary)  
+  - code reuse with `require_once`
 
+- **Exercise 2**: Shape area calculation using OOP  
+  - abstract parent class (`Shape`)  
+  - abstract method enforcement (`calculateArea()`)  
+  - inheritance with `extends`  
+  - method overriding  
+  - constants to avoid magic numbers  
+  - area calculation for different shapes (`Rectangle`, `Triangle`)  
+  - code reuse with `require_once`
+    
 ## ⚡️Technologies
 ### Frontend
 - HTML5
@@ -103,10 +121,21 @@ Level 2 focuses on backend PHP fundamentals.
 
 ### Backend / Programming Fundamentals
 - PHP
-- input with `readline()`
-- Control structures
+- Input handling with `readline()`
+- Control structures (if / else / switch / loops)
 - Functions
-- Exception handling
+- Exception handling (`InvalidArgumentException`)
+- Arrays (indexed and associative)
+- Array traversal with `foreach`
+- Manual array comparison logic (nested loops and flags)
+- Object-Oriented Programming (OOP)
+- Classes and objects
+- Constructors and attributes
+- Method definition and overriding
+- Abstract classes and abstract methods
+- Inheritance with `extends`
+- Constants to avoid magic numbers
+- Code reuse with `require_once`
 
  ## ✏️ References 
 ### HTML
