@@ -2,8 +2,8 @@
 
 abstract class Shape {
 
-    public $height;
-    public $width;
+    protected $height;
+    protected $width;
 
     public function __construct($height, $width)
     {
