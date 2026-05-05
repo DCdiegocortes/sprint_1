@@ -109,7 +109,37 @@ Level 2 focuses on backend PHP fundamentals.
   - constants to avoid magic numbers  
   - area calculation for different shapes (`Rectangle`, `Triangle`)  
   - code reuse with `require_once`
-    
+   
+Level 05.1 – PHP OOP Inheritance and Abstraction
+
+- **Exercise 1**: Animals with interface and abstract class  
+  - interfaces  
+  - abstract classes  
+  - inheritance with `extends`  
+  - implementation with `implements`  
+  - constructor reuse  
+  - method overriding  
+  - polymorphism  
+
+- **Exercise 2**: Shape area calculation with abstract class  
+  - abstract parent class (`Shape`)  
+  - shared attributes and constructor  
+  - method overriding in subclasses  
+  - area calculation for different shapes (`Rectangle`, `Triangle`)  
+  - object arrays  
+  - polymorphism  
+
+### Level 05.2 – PHP OOP Interfaces
+
+- **Exercise 1**: Shape area calculation with interface  
+  - interface definition (`ShapeInterface`)  
+  - contract-based design  
+  - implementation in multiple classes (`Rectangle`, `Triangle`, `Circle`)  
+  - constants to avoid magic numbers  
+  - object arrays  
+  - polymorphism  
+  - dynamic class identification with `get_class()
+ 
 ## ⚡️Technologies
 ### Frontend
 - HTML5
@@ -120,6 +150,7 @@ Level 2 focuses on backend PHP fundamentals.
 - Font Awesome
 
 ### Backend / Programming Fundamentals
+
 - PHP
 - Input handling with `readline()`
 - Control structures (if / else / switch / loops)
@@ -131,11 +162,17 @@ Level 2 focuses on backend PHP fundamentals.
 - Object-Oriented Programming (OOP)
 - Classes and objects
 - Constructors and attributes
-- Method definition and overriding
-- Abstract classes and abstract methods
+- Encapsulation (`public`, `protected`, `private`)
 - Inheritance with `extends`
+- Abstract classes and abstract methods
+- Interfaces and contract-based design
+- Method definition and overriding
+- Polymorphism
+- Object arrays
 - Constants to avoid magic numbers
+- Dynamic class inspection with `get_class()`
 - Code reuse with `require_once`
+
 
  ## ✏️ References 
 ### HTML
