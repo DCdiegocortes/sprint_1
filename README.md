@@ -1,9 +1,15 @@
 # Sprint 1 – Layout Exercises
 
-## 📃Description
+## 📃 Description
 This repository contains the exercises for Sprint 1.  
 Level 1 focuses on layout structure using HTML and CSS.  
-Level 2 focuses on backend PHP fundamentals.
+The following levels focus on backend PHP fundamentals, 
+including:
+control structures
+arrays
+object-oriented programming
+abstraction
+interfaces and polymorphism.
 
 ## 🔩Structure
 ### Level 1 - Frontend 
@@ -110,7 +116,7 @@ Level 2 focuses on backend PHP fundamentals.
   - area calculation for different shapes (`Rectangle`, `Triangle`)  
   - code reuse with `require_once`
    
-Level 05.1 – PHP OOP Inheritance and Abstraction
+### Level 05.1 – PHP OOP Inheritance and Abstraction
 
 - **Exercise 1**: Animals with interface and abstract class  
   - interfaces  
