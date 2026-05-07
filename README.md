@@ -146,6 +146,28 @@ interfaces and polymorphism.
   - polymorphism  
   - dynamic class identification with `get_class()
  
+ ### Level 06.1 – PHP Sessions, Magic Constants and Magic Methods
+- **Exercise 1**: HTML form with PHP session handling  
+  - HTML form creation  
+  - form submission using `POST`  
+  - reading form data with `$_POST`  
+  - session initialization with `session_start()`  
+  - storing user data in `$_SESSION`  
+  - basic session usage without destroying the session  
+
+- **Exercise 2**: Magic constants usage  
+  - predefined magic constants  
+  - `__FILE__`, `__DIR__`, `__LINE__`  
+  - runtime context inspection  
+
+- **Exercise 3**: Magic methods with objects  
+  - object-oriented programming  
+  - constructor (`__construct`)  
+  - property access with `__get()`  
+  - object string representation with `__toString()`  
+  - working with arrays of objects  
+  - dynamic object behavior
+
 ## ⚡️Technologies
 ### Frontend
 - HTML5
