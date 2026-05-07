@@ -24,7 +24,7 @@ class Book{
 
     public function __toString() // object as text
     {
-        return "Title: $this->title, Author: $this->author, Total Pages: $this->totalPages";
+        return "Title: $this->title, Author: $this->author, Total Pages: $this->totalPages, price: $this->price" ;
     }
 
 }
