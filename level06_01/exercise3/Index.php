@@ -1,6 +1,6 @@
 <?php
 
-require_once "magicMethods.php";
+require_once "Book.php";
 
 $bookList = [
     new Book("The Great Gatsby", "F. Scott Fitzgerald", 180, 10.99),
