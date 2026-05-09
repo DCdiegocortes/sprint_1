@@ -168,6 +168,24 @@ interfaces and polymorphism.
   - working with arrays of objects  
   - dynamic object behavior
 
+### Level 07.1 – PHP Validation and Exceptions
+- **Exercise 1**: Division calculator with exception handling  
+  - user input with `readline()`  
+  - input validation  
+  - numeric validation with `is_numeric()`  
+  - division by zero validation  
+  - exception handling with `try` / `catch`  
+  - custom validation flow using `InvalidArgumentException`  
+
+- **Exercise 2**: Form validation with sessions  
+  - HTML form handling with `POST`  
+  - form field validation  
+  - empty field validation  
+  - email validation with `filter_var()`  
+  - password length validation with `strlen()`  
+  - exception handling with `try` / `catch`  
+  - storing validated data in `$_SESSION`
+
 ## ⚡️Technologies
 ### Frontend
 - HTML5
@@ -200,7 +218,14 @@ interfaces and polymorphism.
 - Constants to avoid magic numbers
 - Dynamic class inspection with `get_class()`
 - Code reuse with `require_once`
-
+- Form handling with `$_POST`
+- Sessions with `$_SESSION`
+- Input validation
+- Email validation with `filter_var()`
+- Numeric validation with `is_numeric()`
+- String length validation with `strlen()`
+- Magic constants (`__FILE__`, `__DIR__`, `__LINE__`)
+- Magic methods (`__construct()`, `__get()`, `__toString()`)
 
  ## ✏️ References 
 ### HTML
@@ -222,6 +247,15 @@ interfaces and polymorphism.
 
 ### Best Practices
 - [IT Academy – Barcelona Activa](https://itacademy.barcelonactiva.cat/mod/page/view.php?id=14493)
+
+### Validation
+- [PHP Form Validation – GeeksforGeeks](https://www.geeksforgeeks.org/php/php-form-validation/)
+- [PHP Filter Functions – PHP Manual](https://www.php.net/manual/es/ref.filter.php)
+- [PHP Regular Expressions – W3Schools](https://www.w3schools.com/php/php_regex.asp)
+
+### Exceptions
+- [PHP Exceptions – PHP Manual](https://www.php.net/manual/es/language.exceptions.php)
+- [Handling Exceptions to Impress in Your Tech Interview – DEV Community](https://dev.to/lukeskw/handling-exceptions-to-impress-in-your-tech-inte
 
 
 
