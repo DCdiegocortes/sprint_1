@@ -9,7 +9,7 @@ if (isset($_POST['username']) && isset($_POST['email']) && isset($_POST['passwor
 
     $_SESSION['username'] = $username;
     $_SESSION['email'] = $email; // store the form data in the session
-    
+
     echo "Username: " . $_SESSION['username'] . "<br>";
     echo "Email: " . $_SESSION['email'] . "<br>";
     echo " Password is stored securely "; // passwords are sensitive data
