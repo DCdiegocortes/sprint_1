@@ -1,11 +1,10 @@
 # Sprint 1 – Layout Exercises
 
 ## 📃 Description
-
-This repository contains the exercises for Sprint 1.  
+This repository contains the exercises developed during Sprint 1.  
 Level 1 focuses on layout structure using HTML and CSS.  
-The following levels focus on backend PHP fundamentals and advanced PHP concepts:
-including form handling, sessions, validation, error handling, object-oriented programming, abstraction, interfaces, magic methods, and polymorphism.
+
+The following levels focus on backend PHP fundamentals and progressively introduce more advanced concepts, including form handling, sessions, input validation, error and exception handling, object-oriented programming (OOP), abstraction, interfaces, magic methods, polymorphism, and unit testing with PHPUnit following Test-Driven Development (TDD) principles.
 
 ## 🔩Structure
 ### Level 1 - Frontend 
@@ -181,6 +180,21 @@ including form handling, sessions, validation, error handling, object-oriented p
   - password length validation with `strlen()`  
   - exception handling with `try` / `catch`  
   - storing validated data in `$_SESSION`
+### Level 08.1 – PHPUnit Testing
+- **Exercise 1**: NumberChecker unit tests  
+  - unit testing with PHPUnit  
+  - test class extending `TestCase`  
+  - testing boolean methods  
+  - testing positive and negative numbers  
+  - testing even and odd numbers  
+  - assertions with `assertTrue()` and `assertFalse()`  
+
+- **Exercise 2**: SpeedChecker unit tests  
+  - unit testing with PHPUnit  
+  - testing conditional logic  
+  - testing boundary values  
+  - string assertions with `assertEquals()`  
+  - multiple test cases covering different speed ranges  
 
 ## ⚡️Technologies
 ### Frontend
@@ -222,6 +236,9 @@ including form handling, sessions, validation, error handling, object-oriented p
 - String length validation with `strlen()`
 - Magic constants (`__FILE__`, `__DIR__`, `__LINE__`)
 - Magic methods (`__construct()`, `__get()`, `__toString()`)
+- Unit testing with PHPUnit
+- Test configuration in IntelliJ
+- Test-Driven Development (TDD)
 
  ## ✏️ References 
 ### HTML
@@ -253,6 +270,13 @@ including form handling, sessions, validation, error handling, object-oriented p
 - [PHP Exceptions – PHP Manual](https://www.php.net/manual/es/language.exceptions.php)
 - [Handling Exceptions to Impress in Your Tech Interview – DEV Community](https://dev.to/lukeskw/handling-exceptions-to-impress-in-your-tech-inte
 
-
+### Testing & TDD
+- [PHPUnit – Official Documentation](https://phpunit.de/index.html)
+- [Pest – PHP Testing Framework](https://pestphp.com)
+- [PHP Testing Frameworks – TestmuAI](https://www.testmuai.com/blog/php-testing-frameworks/)
+- [Automated Testing – Atlassian](https://www.atlassian.com/es/continuous-delivery/software-testing/automated-testing)
+- [Types of Software Testing – Atlassian](https://www.atlassian.com/es/continuous-delivery/software-testing/types-of-software-testing)
+- [¿Qué es TDD y para qué sirve? – Intelequia](https://intelequia.com/es/blog/post/qué-es-y-para-qué-sirve-un-tdd-o-test-driven-development)
+- [Modern PHP Developer – TDD](https://startutorial.com/view/modern-php-developer-tdd)
 
 
