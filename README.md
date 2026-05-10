@@ -1,4 +1,4 @@
-# Sprint 1 – Layout Exercises
+# Sprint 1 – Frontend Layout, PHP Fundamentals & Testing
 
 ## 📃 Description
 This repository contains the exercises developed during Sprint 1.  
