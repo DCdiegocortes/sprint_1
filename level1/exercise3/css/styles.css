@@ -1,4 +1,4 @@
-/* RESET */
+
 * {
     margin: 0;
     padding: 0;
@@ -37,15 +37,15 @@ body {
 .logo, .social { flex: 1.5; background: #e65c5c; padding: 10px; }
 .nav { flex: 6; background: #e65c5c; padding: 10px; }
 
-/* BANNER - Mucho más ajustado */
+/* BANNER */
 .banner-outer {
     background: #ff9c2a; /* Naranja */
-    padding: 20px 40px; /* Menos aire que antes */
+    padding: 15px 15px;
 }
 
 .banner-inner {
     background: #fcd12a; /* Amarillo */
-    padding: 30px 15px;
+    padding: 15px 15px;
 }
 
 .banner-inner strong {
